@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Dec  4 15:01:18 2022
+# Process ID: 10656
+# Current directory: D:/Xilinx/Projects/BASYSProj/BASYSProj.runs/impl_1
+# Command line: vivado.exe -log BASYS3.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source BASYS3.tcl -notrace
+# Log file: D:/Xilinx/Projects/BASYSProj/BASYSProj.runs/impl_1/BASYS3.vdi
+# Journal file: D:/Xilinx/Projects/BASYSProj/BASYSProj.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source BASYS3.tcl -notrace

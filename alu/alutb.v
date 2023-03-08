@@ -1,5 +1,10 @@
 `timescale 1ns / 1ps
 
+/*
+    Name: Silas Rodriguez
+    R-Number: R-11679913
+    Assignment: Project 3 
+*/
 
 module alutb;
 
@@ -40,13 +45,11 @@ initial begin
     op = 8'H04;
     #10;
     //and
-    a = 32'h12345678;
-    b = 32'h87654321;
+    a = 32'hf0;
+    b = 32'h0f;
     op = 8'H05;
     #10;
     //or
-    a = 32'hf0;
-    b = 32'h0f;
     op = 8'H06;
     #10;
     //xor
@@ -71,6 +74,7 @@ initial begin
     #10;
 end
 
+//alu instance
 alu alu1 (
     .clk(clk),
     .a(a),
